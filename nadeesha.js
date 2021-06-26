@@ -2,7 +2,7 @@
 
 let hcf;
 // take input
-const number1 = prompt('Enter a first positive integer: ');
+const number1 = prom pt('Enter a first positive integer: ');
 const number2 = prompt('Enter a second positive integer: ');
 
 // looping from 1 to number1 and number2
