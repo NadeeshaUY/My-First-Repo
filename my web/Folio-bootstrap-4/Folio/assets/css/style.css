@@ -332,13 +332,13 @@ nav ul li a {
 #about {
   width: 100%;
   height: auto;
-  background: #f7f7f7;
+  background: #f9f1f2;
   padding-top: 120px;
 }
 
 #about .div-img-bg {
   padding-bottom: 30px;
-  border: 20px solid #db82a7;
+  border: 20px solid #e6c7ca;
 }
 
 #about .div-img-bg .about-img img {
